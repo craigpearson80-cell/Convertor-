@@ -1,0 +1,6 @@
+id,name,category,lat,lng,status,notes,links
+ex-1,Example: Pump Station A,Pumps,51.5079,-0.0877,Active,Example row. Replace with your own assets.,Manual|https://example.com/manual.pdf; Service log|https://example.com/log
+ex-2,Example: Substation 12,Electrical,51.5155,-0.1419,Maintenance due,Example row. Inspection booked.,Drawings|https://example.com/drawings
+ex-3,Example: Storage Yard,Sites,51.4995,-0.1248,Active,Example row.,Site plan|https://example.com/site-plan; Photos|https://example.com/photos
+ex-4,Example: CCTV Mast 3,Security,51.5225,-0.0985,Offline,Example row. Camera fault reported.,Ticket|https://example.com/ticket/123
+ex-5,Example: Generator G2,Electrical,51.4920,-0.0700,Active,Example row.,
